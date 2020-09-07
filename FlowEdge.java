@@ -1,3 +1,6 @@
+/** %java
+ * 12->23 0.0/4.56 */
+
 public class FlowEdge {
     private final int v, w;
     private double flow;
